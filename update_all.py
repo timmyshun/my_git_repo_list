@@ -19,5 +19,5 @@ def list_all():
 		f.write("".join(gitlist))
 
 if __name__ == '__main__':
-	# update_all()
+	update_all()
 	list_all()
